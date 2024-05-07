@@ -22,4 +22,4 @@ Contributions to MuseFinder are welcome! If you have any questions or suggestion
 
 ### Connect With Us
 
-I'd love to hear from you! If you have any questions, feedback, or just want to say hi, you can reach out to me at [sredeepek.95@gmail.com](mailtosredeepek.95@gmail.com)
+If you have any questions, feedback, or just want to say hi, you can reach out to me at [sredeepek.95@gmail.com](mailtosredeepek.95@gmail.com)
