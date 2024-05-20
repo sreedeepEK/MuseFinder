@@ -20,6 +20,3 @@ Explore: Users can explore and listen to recommended songs to discover new music
 
 Contributions to MuseFinder are welcome! If you have any questions or suggestions, feel free to open an issue.
 
-### Connect With Us
-
-If you have any questions, feedback, or just want to say hi, you can reach out to me at [sredeepek.95@gmail.com](mailtosredeepek.95@gmail.com)
