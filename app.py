@@ -40,7 +40,7 @@ music = pd.DataFrame(music_dict)
 similarity = pickle.load(open('similarity.pkl','rb'))
 st.title("Music Recommendation System")
 
-selected_music_name = st.selectbox("Select a music you would like.", music['title'].values)
+selected_music_name = st.selectbox("Select or search a music you would like.", music['title'].values)
 
 if st.button("Recommend"):
     names , posters = recommend(selected_music_name)
