@@ -1,6 +1,6 @@
 # MuseFinder
 
-Welcome to the Spotify Music Recommender project! This application recommends similar songs based on your taste using the Spotify API.
+This application recommends similar songs based on your taste using the Spotify API.
 
 ### How It Works
 
